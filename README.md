@@ -99,7 +99,3 @@ If you want to contribute to this project, please create a fork and submit a pul
 
  License
 This project is licensed under the MIT License.
-
----
-
-Feel free to modify any sections as necessary to better fit your project's specifics.
